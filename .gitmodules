@@ -1,0 +1,6 @@
+[submodule "external/runtime-c"]
+	path = external/runtime-c
+	url = ../../mun-lang/runtime-c
+[submodule "external/runtime"]
+	path = external/runtime
+	url = https://github.com/mun-lang/runtime-ffi
