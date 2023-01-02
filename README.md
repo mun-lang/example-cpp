@@ -1,5 +1,9 @@
 # Mun Runtime C++ Example
 
+> **Warning**
+> 
+> The contents of this repository has been moved into the Mun monorepo at https://github.com/mun-lang/mun .
+
 Hot reloading example of the Mun Runtime embedded in a C++ application.
 
 ## License
